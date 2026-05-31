@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "Tablite"
+  },
+  "extDescription": {
+    "message": "极简标签页，专注搜索，轻量安静。"
+  },
+  "searchStageLabel": {
+    "message": "Tablite 搜索"
+  },
+  "searchInputLabel": {
+    "message": "搜索内容"
+  },
+  "searchPlaceholder": {
+    "message": "搜索网页"
+  },
+  "searchEngineOptionsLabel": {
+    "message": "搜索引擎选项"
+  },
+  "customEngineLabel": {
+    "message": "自定义"
+  },
+  "customSearchUrlLabel": {
+    "message": "自定义搜索 URL"
+  },
+  "saveCustomEngineLabel": {
+    "message": "保存自定义引擎"
+  },
+  "searchTemplateMissingToken": {
+    "message": "URL 必须包含 %s，用来放置搜索内容。"
+  },
+  "searchTemplateInvalidUrl": {
+    "message": "请输入有效的 URL。"
+  },
+  "searchTemplateUnsupportedProtocol": {
+    "message": "URL 必须以 http:// 或 https:// 开头。"
+  }
+}

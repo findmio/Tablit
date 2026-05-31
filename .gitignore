@@ -1,0 +1,7 @@
+.superpowers/
+.worktrees/
+node_modules/
+dist/
+src/shared/i18n.generated.ts
+.DS_Store
+*.local
