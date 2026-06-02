@@ -23,7 +23,12 @@ Tablite is a Manifest V3 new tab extension for Chromium browsers. It turns the n
 
 ![Tablite screenshot](docs/screenshot.png)
 
-## Install
+## Install From Store
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/tablite/idjjaindppamhdcdefngfohdpkeokbnn)
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/nijfmkndoanecmjohipkeagmbpcfejde)
+
+## Install From Source
 
 1. Install dependencies:
 
